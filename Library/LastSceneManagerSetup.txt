@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Seans/HomeScreen.unity
+  isLoaded: 1
+  isActive: 1
